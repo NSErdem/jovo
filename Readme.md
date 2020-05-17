@@ -1,4 +1,4 @@
-# Name of the programming language: Jovo
+# Name of the programming language: Jovo™
 
 # Group Members:
 
