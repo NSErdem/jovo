@@ -1,4 +1,6 @@
-# Group Members:
+#Name of the programming language: Jovo
+
+#Group Members:
 
 Mert KARABABA
 Enes Salim ERDEM
