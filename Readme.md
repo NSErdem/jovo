@@ -5,7 +5,7 @@ Enes Salim ERDEM
 Recai Kaan KANATLI
 
 
-# Name of your programming language: Jovo
+# Name of the programming language: Jovo
 
 
 # Referance
