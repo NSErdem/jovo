@@ -6,8 +6,6 @@ Mert KARABABA
 Enes Salim ERDEM
 Recai Kaan KANATLI
 
-# Referance
-https://cse.iitkgp.ac.in/~bivasm/notes/LexAndYaccTutorial.pdf
 # Run codes
  after clone
  1. make clean
@@ -129,6 +127,7 @@ string s1; s1 = "AKDENIZ CSE ";
     bool = false | true
     ```
 
-
+# Referance
+https://cse.iitkgp.ac.in/~bivasm/notes/LexAndYaccTutorial.pdf
 
 
