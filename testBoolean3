@@ -1,0 +1,19 @@
+/* main */
+main{
+    /* support for AND, OR */
+    int i1; i1 = 1;
+    int i2; i2 = 0; 
+    int i3; i3 = 0;
+    if(i1 and i2){
+        print "one of them is non zero";
+    }
+      else {
+      print "one of them is non zero";
+   }
+    if(i1 or i3){
+       
+    }
+    else {
+        print "all are zero";
+    }
+}
