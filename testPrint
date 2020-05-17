@@ -1,0 +1,13 @@
+/* main */
+main{
+    /* print int with assign */
+    int a; a = 200; print a;
+   
+   /* print int without assign */
+      print (200);
+    /* print string without assign */
+        print "PRINTED WITHOUT ASSIGN";
+      
+     /* print string with assign */
+     string s1; s1 = "PRINTED WITH ASSIGN "; print(s1);
+     }
