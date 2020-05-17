@@ -79,6 +79,7 @@ string s1; s1 = "AKDENIZ CSE ";
     bool b2; b2 = (i1 or i2);  this is how implemented or in this language
      also you can use that booleans in if 
      like if (i1 and i2){} or if(i1 or i3) {}
+      Note; and/or supported for int type only.
 
   
 
