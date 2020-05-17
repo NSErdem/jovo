@@ -20,7 +20,7 @@ Recai Kaan KANATLI
  
  ./calculator ./testForWhile  && ./calculator ./testDivFunction etc.
  
-# Sample examples
+# LANGUAGE RULES WITH FEW EXAMPLE
 
 
 ### Comment
