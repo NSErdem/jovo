@@ -70,7 +70,8 @@ string s1; s1 = "AKDENIZ CSE ";
     printFn(int x){
     print x;
     
-    ### Boolean
+    
+   ### Boolean
      int a; a = 0 for (false) or any number except for (true); 
      int b; b = 0 for (false) or any number except for (true); 
     
