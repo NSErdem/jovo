@@ -1,23 +1,21 @@
-/* main */
-  
 
 main{
-    /* if-else example 1 when if is true */
+   /* 0 = false     &&  any other number = true */
     
     int i1; i1 = 0;
     int i2; i2= 1;
     if(i1 and i2){
-      print "true";
+      print "there is no zero";
     } else {
        print "there is only one zero";
     }
     
-    /* if-else example 1 when if is false  */
+   
      
      int i3; i3 = 0;
      int i4; i4 = 0;
      if(i3 or i4){
-         print "true";
+         print "there is one non zero";
     } else {
         print "all are zero";
     }
