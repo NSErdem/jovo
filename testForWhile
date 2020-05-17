@@ -7,6 +7,12 @@ main{
     for (j = 0 to 13){
         print j;
     }
+     /* for */
+ string s1; s1 = "-->0 to 12 w for ++"; print(s1);
+  int j; j = 0;
+    for (j = 0 to 5){
+        print "example";
+    }
 
     /* while */ 
     string s2; s2 = "-->12 to 0 w while --"; print(s2);
