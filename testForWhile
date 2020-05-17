@@ -18,7 +18,7 @@ main{
     string s2; s2 = "-->12 to 0 w while --"; print(s2);
     int z; z = 12;   
     while(z >= 0){
-        print k;
+        print z;
        z = z - 1;
     }
 }
